@@ -10,7 +10,7 @@ The challenge was to make a weather app that primarilay depended on an API  to f
 
 ### Screenshot
 BEFORE
-![](./images/AFTER.png)
+![](./images/BEFORE.png)
 AFTER
 ![](./images/AFTER.png)
 
